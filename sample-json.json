@@ -1,6 +1,6 @@
 
 	{
-"version": "test v3",
+"version": "test v1",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "2",
@@ -20,9 +20,9 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "",
-	"bannerId": "ca-app-pub-3940256099942544/6300978111",
-	"rewardadmob": "",
+	"interId": "ca-app-pub-0000000000000000/0000000000",
+	"bannerId": "ca-app-pub-0000000000000000/0000000000",
+	"rewardadmob": "ca-app-pub-0000000000000000/0000000000",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
