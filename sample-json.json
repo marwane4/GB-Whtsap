@@ -1,6 +1,6 @@
 
 	{
-"version": "v8",
+"version": "v9",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
 		"Frequence": "4",
@@ -19,10 +19,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "ca-app-pub-3940256099942544/1033173712",
-	"bannerId": "ca-app-pub-3940256099942544/6300978111",
-	"rewardadmob": "ca-app-pub-0000000000000000/0000000000",
+	"AdmobAppId": "ca-app-pub-1602220721519468~7691015502",
+	"interId": "ca-app-pub-1602220721519468/2873803098",
+	"bannerId": "ca-app-pub-1602220721519468/1943864800",
+	"rewardadmob": "ca-app-pub-1602220721519468/7507823303",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
@@ -32,8 +32,8 @@
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "3949519",
-	"UnityInter": "video",
-	"Unitybanner": "banner",
+	"UnityAppId": "3881561",
+	"UnityInter": "interstisialAD",
+	"Unitybanner": "BannerID",
 	"unityreward": "rewardedVideo"
 }
