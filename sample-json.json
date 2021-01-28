@@ -1,9 +1,9 @@
 
 	{
-"version": "Goldy Devloper",
+"version": "2021",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "4",
+		"Frequence": "1",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
 		"specificationAds": "2",
 "rate us explication": "chhal men lancement 3ada iban rate",
@@ -11,7 +11,7 @@
 
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "x0x0xx00",
+	"ironId": "y0y0yy00",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
@@ -20,15 +20,15 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3419835294",
-	"interId": "ca-app-pub-3940256099942544/1033173712",
-	"bannerId": "ca-app-pub-3940256099942544/6300978111",
-	"rewardadmob": "ca-app-pub-3940256099942544/5224354917",
+	"interId": "ca-app-pub-0000000000000000/0000000000",
+	"bannerId": "ca-app-pub-0000000000000000/0000000000",
+	"rewardadmob": "ca-app-pub-0000000000000000/0000000000",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "413414486470166_413416473136634",
-	"FanBanner": "413414486470166_413414909803457",
-	"FanReward": "413414486470166_413416193136662",
+	"FanInter": "2913907275495630_2913909502162074",
+	"FanBanner": "2913907275495630_2913908352162189",
+	"FanReward": "2913907275495630_2913909502162074",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
